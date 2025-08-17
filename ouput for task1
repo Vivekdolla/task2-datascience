@@ -1,0 +1,38 @@
+Image Details: 
+Format: JPEG 
+Size: (125, 160) 
+Mode: RGB 
+CSV File Columns: ['StudentID', 'Name', 'Department'] 
+Data Types: 
+StudentID
+ Name    
+      int64 
+      object 
+Department    object 
+dtype: object 
+Excel File Preview: 
+Name  Math  Science  English 
+0   John   
+ 80       
+1  Alice    90
+ 2  David    75      
+3  Maria    88     
+4    Sam    65    
+85       
+       88 
+ 70       
+  90      
+   60     
+78 
+      92 
+80 
+ 85 
+  70 
+JSON from API (https://disease.sh): 
+Updated: 1753873486441 
+Total Cases: 704753890 
+Deaths: 7010681 
+Recovered: 675619811 
+Processed Excel data saved to: E:/vel tech/SS2526/Data Science/Data Science lab 
+SS2526/final_summary_output.csv 
+COVID-19 summary appended to the same CSV. 
